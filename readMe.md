@@ -1,3 +1,3 @@
-Please see the wiki page [Read Me](https://github.com/martinhbramwell/Cloud-Fitnesse-Tester/wiki/Read-Me)
+Please see the wiki [Home](https://github.com/martinhbramwell/Cloud-Fitnesse-Tester/wiki/Read-Me) page.
 
 
